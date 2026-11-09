@@ -1,6 +1,6 @@
 # simulations
 
-# EVENT-DATA
+## event-data
 This folder contains results from event simulations. It includes subfolders for each event simulated as part of the *production* phase. The subfolder name/number corresponds to the simulated event number. Each event contains model results for the three models (RAS, HMS, ResSim). These simulation model results are separated by the various models and include the following result data:
 
 ### hydraulics (includes subfolders for each model-unit)
@@ -25,13 +25,13 @@ This folder contains results from event simulations. It includes subfolders for 
 ### system-response
 - **failure_elevations.json** - Sampled failure/breach elevations for each structure. Includes "location" (e.g. NID or NLD identifier) and "failure_elevation" (elevation at which a breach is triggered).
 
-# LOGS
+## logs
 This folder stores log information on HMS simulations, including simulation times and information on simulation failures.
 
-# STORM-CATALOG
+## storm-catalog
 - **storms.csv** - Provides an index of storm event numbers, .dss file paths, x and y coordinates, storm type classification, and a basin path.
 
-# SUMMARY DATA
+## summary-data
 Contains summarized data from simulated events. Summarized data are divided by model type (i.e. hydraulics, hydrology, reservoir-operations).
 
 - **Hydraulics Summary Data** - summary data is provided for individual model-units. Includes parameters such as max/min flow and WSEL data for model elements like bc-lines, reference-lines, reference-points. Overall hydraulic model information is also included, such as computation time, simulation status (e.g. finished successfully), time at which solution may have gone unstable, and volume accounting information (including cumulative net precipitation and volume accounting error).
@@ -44,7 +44,7 @@ Contains summarized data from simulated events. Summarized data are divided by m
 
   - Additionally, **breach plots** are included which summarized breach data for dams and levees. Information is available for individual structures (e.g. specific levees), and also for all structures across many simulated events.
 
-# Additional Files in the *simulations* folder
+## Additional Files in the *simulations* folder
 - **blocks_fixed_length.json** - Defines the relationship of events to synthetic years (i.e. blocks), and the relationship between blocks and realizations.
 - **Combined_AMS_Contributing_10yr.csv** - Defines the list of events which contribute to annual maximum series. This is also the list of events to be computed in HEC-RAS.
 - **Combined_AMS_Contributing_Explain_10yr.csv** - Provides a rationale for each event which contributes to the annual maximum series.

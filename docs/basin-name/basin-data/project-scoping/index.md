@@ -25,7 +25,7 @@ Uncalibrated hydrologic model that included all planned HMS model elements inclu
 ## levee-modeling-scope
 Levee breach location geospatial file. Progresses from draft during scoping and data preparation phase to final during subsequent phases.
 
-## hydrulic-model-units
+## hydraulic-model-units
 Polygons defining the scoped boundaries of individual hydraulic models.
 
 ## mesh-development-criteria

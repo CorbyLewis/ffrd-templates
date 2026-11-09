@@ -1,6 +1,6 @@
 # observed-data
 
-Compilation of centralized official of observed for project use. Sources of and availability of observed data varies by project location. This data is collected and curated during the *Data Preparation* Phase. This data has been adjusted to account based on QC efforts and may include:
+Compilation of centralized official observed data for project use. Sources of and availability of observed data varies by project location. This data is collected and curated during the *Data Preparation* Phase. This data has been adjusted based on QC efforts and may include:
 
 * flow
 * stage
@@ -14,4 +14,4 @@ Compilation of centralized official of observed for project use. Sources of and 
 
 
 Stream gage location data in a geospatial format is stored in a **<u>separate location</u>**: 
->     basin-data > project-scoping > calibration-metrics
+>     basin-data > project-scoping > calibration-scope
