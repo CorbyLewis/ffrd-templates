@@ -41,9 +41,9 @@ Contains summarized data from simulated events. Summarized data are divided by m
 
 - **Hydraulics Summary Data** - summary data is provided for individual model-units. Includes parameters such as max/min flow and WSEL data for model elements like bc-lines, reference-lines, reference-points. Overall hydraulic model information is also included, such as computation time, simulation status (e.g. finished successfully), time at which solution may have gone unstable, and volume accounting information (including cumulative net precipitation and volume accounting error).
 
-- **Hydrology Summary Data** - summary data is provided for for 1-hr, 24-hr, 48-hr, and 72-hr output periods for HMS model elements.
+- **Hydrology Summary Data** - summary data is provided for 1-hr, 24-hr, 48-hr, and 72-hr output periods for HMS model elements.
 
-- **Reservoir-Operations Summary Data** - summary data is provided for for 1-hr, 24-hr, 48-hr, and 72-hr output periods for ResSim model elements.
+- **Reservoir-Operations Summary Data** - summary data is provided for 1-hr, 24-hr, 48-hr, and 72-hr output periods for ResSim model elements.
 
 - **Plots** - Contains graphical representation of simulated events. These plots include flow and stage frequency plots, stage-discharge rating curves, volume-accounting-error versus precipitation, and precipitation frequency plots. The plots provide an interactive interface to zoom and query specific events of interest based on their plotting position. Several of the plot types also display observed and/or published data for direct comparison to modeled results.
 

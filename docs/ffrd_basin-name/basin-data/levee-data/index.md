@@ -1,5 +1,5 @@
 # levee-data
-Folder includes information regarding levees in the study area, such as risk assessment reports, water control manuals (WCMs), survey data, as-build drawings, local and Federal information. Levee data may be geospatial or not.
+Folder includes information regarding levees in the study area, such as risk assessment reports, water control manuals (WCMs), survey data, as-built drawings, local and Federal information. Levee data may be geospatial or not.
 
 Also includes **Levee Data Tracking Table** that is used to track data completion of refinement efforts prior to the FFRD study
 
