@@ -9,6 +9,5 @@ The HEC-ResSim model should be placed within a subfolder of its own to ease in f
 
 ### Archive Folder
 The *archive* folder is used to house draft and outdated model versions as updates are made. Archived models should be date stamped. Examples of an archived model unit directory name:
-> basin-name_YYYYMMDD
-> 
+> basin-name_YYYYMMDD  
 > trinity_20250314

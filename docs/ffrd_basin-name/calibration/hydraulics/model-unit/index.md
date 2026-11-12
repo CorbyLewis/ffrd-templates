@@ -1,5 +1,3 @@
 # model-unit
 
-#model-unit folder
-
-Includes current model results for the *calibration* phase.
+Includes current model results for the *calibration* phase on a `model-unit` basis.
