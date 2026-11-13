@@ -1,7 +1,7 @@
 # reservoir-operations
 
 ## Description:
-This folder contains reservoir-operations model resulting from the *Calibration* phase. This model is promoted to the *Conformance* folder when review is complete and the *Calibration* phase is closed out.
+This folder contains the reservoir-operations model resulting from the *Calibration* phase. This model is promoted to the *Conformance* folder when review is complete and the *Calibration* phase is closed out.
 
 Models should include all relevant files required to simulate the model on desktop. This includes all model files associated with historic events used for calibration. Any referenced external data should be included.
 

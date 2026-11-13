@@ -2,7 +2,8 @@
 ## event-data
 This folder contains results from event simulations. It includes subfolders for each event simulated as part of the *conformance* phase. The subfolder name/number corresponds to the simulated event number. Each event contains model results for the three models (RAS, HMS, ResSim). These simulation model results are separated by the various models and include the following result data:
 
-### hydraulics (includes subfolders for each model-unit)
+### hydraulics 
+*Includes subfolders for each model-unit*
 - **model-unit.p01.hdf** - HEC-RAS model results from simulation, which include event-conditions, geometry, plan data, and result data.
 - **model-unit.p01.tmp.hdf** - HEC-RAS input data required for cloud simulation.
 - **ras-event-summary.json** - Summary data for many of the hydraulic model components. These include information on the 2D area (cumulative net precipitation, volume accounting error, etc.), boundary condition lines, breaching status, reference line peaks (flows, water surface elevation (WSEL), and velocities), structure variable peaks, and overall model summary data (computation time, number of cores, run time window, solution status, and information if model went unstable).
@@ -47,7 +48,7 @@ Contains summarized data from simulated events. Summarized data are divided by m
 
 - **Plots** - Contains graphical representation of simulated events. These plots include flow and stage frequency plots, stage-discharge rating curves, volume-accounting-error versus precipitation, and precipitation frequency plots. The plots provide an interactive interface to zoom and query specific events of interest based on their plotting position. Several of the plot types also display observed and/or published data for direct comparison to modeled results.
 
-  - Additionally, **breach plots** are included which summarized breach data for dams and levees. Information is available for individual structures (e.g. specific levees), and also for all structures across many simulated events.
+  - Additionally, **breach plots** are included which summarize breach data for dams and levees. Information is available for individual structures (e.g. specific levees), and also for all structures across many simulated events.
 
 ## Additional Files in the *simulations* folder
 - **blocks_fixed_length.json** - Defines the relationship of events to synthetic years (i.e. blocks), and the relationship between blocks and realizations.

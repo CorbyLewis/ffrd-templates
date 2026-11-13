@@ -5,7 +5,7 @@ This folder includes subfolders, each corresponding to an individual model-unit 
 Models should include all relevant files required to simulate the model on desktop. This includes all model files with *.X01 extensions (e.g. .p01, .p01.hdf, .g01, .u01, etc.). Associated land-use/cover files should also be included.
 
 
-> **Note:** Terrain files are stored under `ffrd-basin > terrain-modeling` and must not be included here.
+> **Note:** Terrain files are stored under `ffrd_basin-name > terrain-modeling` and must not be included here.
 
 
 ### model-unit folder
