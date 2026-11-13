@@ -1,4 +1,6 @@
 # simulations
+This folder stores all cloud-computed model simulation outputs, run logs, and summarized results generated during the *conformance* phase. It contains both historic event-replication runs (*event-validation*) and stochastic simulation suites (*frequency-calibration*) used to evaluate and align the integrated modeling system against observed frequency data.
+
 ## event-data
 This folder contains results from event simulations. It includes subfolders for each event simulated as part of the *conformance* phase. The subfolder name/number corresponds to the simulated event number. Each event contains model results for the three models (RAS, HMS, ResSim). These simulation model results are separated by the various models and include the following result data:
 

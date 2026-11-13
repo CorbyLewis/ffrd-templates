@@ -1,5 +1,5 @@
 # bathymetry
-## Folder includes:
+**Folder includes:**
 
 * collected survey data
 * stream channel data extracted from 1D models

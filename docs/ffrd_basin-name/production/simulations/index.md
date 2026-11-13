@@ -1,4 +1,8 @@
 # simulations
+This folder stores all cloud-computed stochastic simulation outputs, run logs, and summarized results generated during the *production* phase. It contains individual simulated event outputs, aggregated frequency products, hazard grids, and consequence results across the full suite of production runs.
+
+## current-condition
+This folder stores results from the *production* phase stochastic simulations representing current basin conditions. It contains individual event outputs (`events`) and aggregated summary deliverables (`summary-output`), including annual maximum series, partial duration series, consequence results, summary hazard grids, and frequency plots.
 
 ## event-data
 This folder contains results from event simulations. It includes subfolders for each event simulated as part of the *production* phase. The subfolder name/number corresponds to the simulated event number. Each event contains model results for the three models (RAS, HMS, ResSim). These simulation model results are separated by the various models and include the following result data:

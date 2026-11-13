@@ -4,5 +4,5 @@ Folder includes information regarding levees in the study area, such as risk ass
 Also includes **Levee Data Tracking Table** that is used to track data completion of refinement efforts prior to the FFRD study.
 
 
-## NLD (National Levee Database) Subfolder
-Folder includes static version of the National Levee Database (NLD) dataset collected during Data Preparation Phase.
+## nld
+The NLD (National Levee Database) folder includes static version of the National Levee Database (NLD) dataset collected during Data Preparation Phase.

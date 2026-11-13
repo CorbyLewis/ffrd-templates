@@ -8,4 +8,4 @@ The **storms** subdirectory contains all precipitation and temperature data in .
 
 The **fishnets** folder contains valid placement points for each transposed storm.
 
-The **Seasonality distributions** folder contains the storm-typed seasonalities and govern when storms of a given type can occur within the calendar year.
+The **seasonality-distributions** folder contains the storm-typed seasonalities and govern when storms of a given type can occur within the calendar year.
